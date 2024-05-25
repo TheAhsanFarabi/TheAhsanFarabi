@@ -1,1 +1,1 @@
-<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/326302992/original/89924b74a59fc9de61bf769b90721fc4dd69d4c6/draw-a-cool-nature-pixel-art-illustration-for-your-needs.jpg" alt="Nature" style="width:200px;">
+<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/326302992/original/89924b74a59fc9de61bf769b90721fc4dd69d4c6/draw-a-cool-nature-pixel-art-illustration-for-your-needs.jpg" alt="Nature" style="width:500px;">
