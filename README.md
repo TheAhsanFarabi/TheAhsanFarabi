@@ -13,19 +13,3 @@ Welcome to my **GitHub Portfolio!** This repository showcases my expertise in **
 - 🏆 **CSE Project Show Award Winner** | Multiple Competitions  
 
 ---
-
-## 🛠️ Skills & Technologies  
-
-### 💻 Programming & Scripting  
-`Python` `C` `C++` `Java` `PHP` `JavaScript` `SQL`  
-
-### 🌐 Web Development  
-`Laravel` `Node.js` `Tailwind CSS` `Bootstrap` `Ajax`  
-
-### 🤖 Machine Learning & NLP  
-`Scikit-learn` `NLTK` `Spacy` `TextBlob` `LSTM` `Gensim`  
-
-### ⚙️ Tools & Frameworks  
-`JavaFX` `Logisim` `Figma` `Cisco Packet Tracer` `Jira`  
-
----
