@@ -13,3 +13,6 @@ Welcome to my **GitHub Portfolio!** This repository showcases my expertise in **
 - 🏆 **CSE Project Show Award Winner** | Multiple Competitions  
 
 ---
+
+If you’re interested in any of my projects, feel free to **fork, contribute, or reach out!**  
+I'm always open to collaborations on **AI, NLP, and full-stack projects.** 🚀 
