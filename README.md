@@ -1,5 +1,4 @@
-# 🚀 Hi! I am Ahsan Farabi 
-**Full-Stack Developer | Machine Learning Enthusiast | Teaching Assistant**  
+# Full-Stack Developer | Machine Learning Enthusiast | Teaching Assistant
 
 Welcome to my **GitHub Portfolio!** This repository showcases my expertise in **Web Development and Machine Learning**, along with my academic and research contributions.  
 
