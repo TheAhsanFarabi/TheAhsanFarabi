@@ -1,4 +1,4 @@
-### Full-Stack Developer | Machine Learning Enthusiast | Teaching Assistant
+### Machine Learning Enthusiast | Teaching Assistant | Laravel Dev
 
 Welcome to my **GitHub Portfolio!** This repository showcases my expertise in **Web Development and Machine Learning**, along with my academic and research contributions.  
 
