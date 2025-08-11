@@ -10,7 +10,7 @@ Welcome to my **GitHub Portfolio!** This repository showcases my expertise in **
 - 🧠 **Machine Learning & NLP Enthusiast** (Scikit-learn, NLTK, Spacy, LSTM)  
 - 👨‍🏫 **Undergraduate Teaching Assistant** | Object-Oriented Programming for Data Science  
 - 🏆 **CSE Project Show Award Winner** | Multiple Competitions
-- - 📚 **Research & Publications** — [Google Scholar Profile](https://scholar.google.com/citations?user=YYXPe_sAAAAJ)
+- 📚 **Research & Publications** — [Google Scholar Profile](https://scholar.google.com/citations?user=YYXPe_sAAAAJ)
 
 ---
 
