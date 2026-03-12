@@ -1,18 +1,70 @@
-### Machine Learning Enthusiast | Teaching Assistant | Laravel Dev
+# Ahsan Farabi
 
-Welcome to my **GitHub Portfolio!** This repository showcases my expertise in **Web Development and Machine Learning**, along with my academic and research contributions.  
+### AI Research Enthusiast • Teaching Assistant • Full-Stack Developer
 
----
-
-## 📌 About Me  
-- 🎓 **Computer Science & Engineering Student** | United International University  
-- 💡 **Full-Stack Developer** (Laravel, JavaScript, Tailwind, PHP, Node.js)  
-- 🧠 **Machine Learning & NLP Enthusiast** (Scikit-learn, NLTK, Spacy, LSTM)  
-- 👨‍🏫 **Undergraduate Teaching Assistant** | Object-Oriented Programming for Data Science  
-- 🏆 **CSE Project Show Award Winner** | Multiple Competitions
-- 📚 **Research & Publications** — [Google Scholar Profile](https://scholar.google.com/citations?user=YYXPe_sAAAAJ)
+Welcome to my GitHub.  
+I build **AI systems, research-driven machine learning projects, and full-stack platforms** that solve real problems.
 
 ---
 
-If you’re interested in any of my projects, feel free to **fork, contribute, or reach out!**  
-I'm always open to collaborations on **AI, NLP, and full-stack projects.** 🚀 
+## About Me
+
+- 🎓 **BSc in Computer Science & Engineering**  
+  United International University
+
+- 👨‍🏫 **Undergraduate Teaching Assistant**  
+  *Object-Oriented Programming for Data Science*
+
+- 🧠 **AI / Machine Learning Enthusiast**  
+  Focused on **NLP, Computer Vision, and Applied ML**
+
+- 💻 **Full-Stack Developer**  
+  Laravel • JavaScript • Tailwind • Node.js • PHP
+
+- 🏆 **CSE Project Show Award Winner**  
+  Multiple academic competitions
+
+- 📚 **Research & Publications**  
+  Check my academic work on **Google Scholar**  
+  https://scholar.google.com/citations?user=YYXPe_sAAAAJ
+
+---
+
+## What I Build
+
+On this GitHub you will find projects related to:
+
+- 🤖 **Machine Learning & AI**
+  - NLP experiments
+  - Deep learning models
+  - Data science research projects
+
+- 🌐 **Full-Stack Applications**
+  - Laravel platforms
+  - Modern JavaScript web apps
+  - API-driven systems
+
+- 🧪 **Research Prototypes**
+  - Experimental ML systems
+  - Dataset generation pipelines
+  - AI safety and detection models
+
+---
+
+## Current Interests
+
+- Natural Language Processing (NLP)
+- Computer Vision
+- AI for Social Good
+- Applied Machine Learning Systems
+- Research-driven Software Engineering
+
+---
+
+## Let's Collaborate
+
+If you're interested in working together on **AI, research, or full-stack systems**, feel free to connect.
+
+⭐ You can support my work by **starring repositories** or **contributing to projects**.
+
+---
